@@ -1,0 +1,5 @@
+
+
+<student-dnd :exercise="{{ $exercise }}"/>
+
+
